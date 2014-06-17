@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tip_Calc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tip_label">Tip is:</string>
+    <string name="amount_label">Amount</string>
+    <string name="et_label">Enter Total Amount</string>
+    <string name="ten">10%</string>
+    <string name="fifteen">15%</string>
+    <string name="twenty">20%</string>
+
+
+
+</resources>
